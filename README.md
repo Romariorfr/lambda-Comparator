@@ -1,4 +1,5 @@
 # lambda-Comparator
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Romariorfr/lambda-Comparator/blob/master/LICENSE) 
 
 ## Uma experiência com Comparator
 Estudo focado no aprendizado de programação funcional e expressões lambda.
@@ -50,10 +51,14 @@ Podemos implementar a comparação de produtos por meio da implementação da in
 
 ```
   
-  ## Consultar documentação
-  Comparator: https://docs.oracle.com/javase/10/docs/api/java/util/Comparator.html
+  ## Documentação
+  Comparator: 
+	
+	https://docs.oracle.com/javase/10/docs/api/java/util/Comparator.html
   
-  Metodo sort na interface List: https://docs.oracle.com/javase/10/docs/api/java/util/List.html
+  Metodo sort na interface List: 
+	
+	https://docs.oracle.com/javase/10/docs/api/java/util/List.html
   
  
   # Autor
